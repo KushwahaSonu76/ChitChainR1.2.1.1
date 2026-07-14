@@ -281,3 +281,4 @@ const ViewChit = () => {
 export default ViewChit;
 
 // Fixed rpc.Account constructor crash
+// Read real round contributions from smart contract
