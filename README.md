@@ -81,7 +81,7 @@ Analytics & Monitoring (PostHog & Sentry)
 ---
 
 ## 7. Live Demo
-- **Live URL**: [https://chit-chain-r1-23lx.vercel.app](https://chit-chain-r1-23lx.vercel.app) (Vercel Project: [abhi87656/chit-chain-r1-23lx](https://vercel.com/abhi87656/chit-chain-r1-23lx))
+- **Live URL**: [https://chit-chain-r1-2-1-1.vercel.app](https://chit-chain-r1-2-1-1.vercel.app)
 
 ---
 
