@@ -162,10 +162,10 @@ Based on the collected feedback, our roadmap for Level 6 and beyond includes:
 
 ## 14. Commit History Note
 The repository contains **20+ cumulative meaningful atomic commits**. Key milestone commits for the Level 5 upgrade specifically include:
-- `340963b`: feat: implemented Guided Tour using local storage
-- `340963b`: feat: added Group Preview mode for unauthenticated users
-- `a575926`: style: integrated react-hot-toast and DiceBear avatars
-- `ef636d2`: docs: updated README with Level 5 metrics and feedback loop
+- `a53dc37`: feat: implemented Guided Tour using local storage
+- `6b2b635`: feat: added Group Preview mode for unauthenticated users
+- `8ac99ed`: style: integrated react-hot-toast and DiceBear avatars
+- `37878d2`: docs: updated README with Level 5 metrics and feedback loop
 
 ---
 
