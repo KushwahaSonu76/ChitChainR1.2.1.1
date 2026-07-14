@@ -204,3 +204,5 @@ Building on our **Feedback-Driven Improvement Plan (Section 10)**, the overarchi
 - Runs on Stellar Testnet only.
 - Relies on manual Freighter interactions for signing transactions.
 - Does not currently support late entry once a round starts.
+
+<!-- Updated screenshot markdown links -->
