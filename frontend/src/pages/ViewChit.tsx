@@ -279,3 +279,5 @@ const ViewChit = () => {
 };
 
 export default ViewChit;
+
+// Fixed rpc.Account constructor crash
