@@ -70,3 +70,5 @@ const Landing = () => {
 };
 
 export default Landing;
+
+// Guided tour implementation
