@@ -237,3 +237,5 @@ export async function getRoundContributions(chitId: number, round: number): Prom
   const native = scValToNative(scVal);
   return native || {};
 }
+
+// Helper for getMemberChits scanning index
