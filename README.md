@@ -105,7 +105,7 @@ Analytics & Monitoring (PostHog & Sentry)
 We set up a comprehensive feedback loop using Google Forms directly linked from the top banner of the app.
 
 - **Google Form Link**: [ChitChain Level 5 Feedback Form](https://docs.google.com/forms/d/1u1PQbFFA3wZGN8rGY8mQZig3oQMQWN6625iyuFsSUmg/edit)
-- **Exported Responses**: [View Google Sheets Responses](https://docs.google.com/spreadsheets/d/1W6AUulc9Tnu_lkESl7l0cLrtx8GLqtZc3CcuxLFyIoY/edit?usp=sharing)
+- **Exported Responses**: [View Google Sheets Responses][https://docs.google.com/spreadsheets/d/1W6AUulc9Tnu_lkESl7l0cLrtx8GLqtZc3CcuxLFyIoY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1UatsNo8vG8Ooph8jxFBqAqM1ZL5Adkj14MrXGu-i0Is/edit?usp=sharing)
 
 ### Key Findings Summary
 - **Average Rating**: `4.8 / 5.0`
