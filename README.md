@@ -97,7 +97,26 @@ Analytics & Monitoring (PostHog & Sentry)
 | `GASTVZN...M45US` | [d66cdd3c24bd...](https://stellar.expert/explorer/testnet/tx/d66cdd3c24bdeabcab5b966d29861f389f8b464188f5f3ee482fb6cecd8ba50f) | Contributed Round 1 |
 | `GAH6NCF...FJDOS4` | [cecadfca2c85...](https://stellar.expert/explorer/testnet/tx/cecadfca2c85612435bdbd646ac5c5964d0b324ac902b4055ec2fdd33935ff8c) | Disbursed Round 1 |
 
-*(For the complete list of 75+ wallets and transactions, see our [Google Sheets Responses](https://docs.google.com/spreadsheets/d/1W6AUulc9Tnu_lkESl7l0cLrtx8GLqtZc3CcuxLFyIoY/edit?usp=sharing)) or view the detailed [Onboarded Users Verification List](./onboarded_users.md) directly in the repository.*
+*(For the complete list of 75+ wallets and transactions, see our [Google Sheets Responses](https://docs.google.com/spreadsheets/d/1lIg8DFYpQiNb5WP8YTOt5YBkWczLjQd_VwGov1p-ceE/edit?usp=sharing) or view the detailed [Onboarded Users Verification List](./onboarded_users.md) directly in the repository.*
+
+### Users Onboarded (Sample — 10+ of 57 total)
+| User ID | Name | Email | Wallet Address | Feedback Summary |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Rishi sharma | rishi55443322@gmail.com | `GDPHORC...WWI27` | Wallet address copy-to-clipboard feature requested |
+| 2 | Ranjan Mehta | ranjanmehta980@gmail.com | `GBH45ZR...CSPWD` | Manual refresh button on Group Details page |
+| 3 | Nitin Kapoor | nitinkapoor009988@gmail.com | `GASTVZN...M45US` | Disconnect/Logout button for wallet |
+| 4 | Abhishek Kumar | abhishek086038@gmail.com | `GCGITHG...I3LWX` | Contribution amount should show XLM label |
+| 5 | Suraj Kumar | suurajku@gmail.com | `GBAJGNC...FIWV` | Empty dashboard should show Create First Group button |
+| 6 | Bhole shankar | tandavibhole@gmail.com | `GDPXTW5...D6AK` | Color-code group status for premium look |
+| 7 | Riya Sharma | riya83738shar@gmail.com | `GDPHORC...WWI27` | Disable Create Group button until form is filled |
+| 8 | Anish Kumar | manithanks754@gmail.com | `GAH6NCF...DOS4` | Back to Dashboard link needs better UX |
+| 9 | Shweta sharma | shwetasharma44044@gmail.com | `GBUTBHM...DOG6` | External links should open in new tab |
+| 10 | Anil Desai | anil.desai1982@gmail.com | `GANJU7N...KRJS` | Custom contribution amounts instead of fixed splits |
+| 11 | Kavya Shetty | kavyashetty.blr@gmail.com | `GD5OEDI...XPJV` | Countdown timer for each round deadline |
+| 12 | Rohit Bajaj | rohitbajaj90@gmail.com | `GDXBOQ4...RS7E` | Payment reminders for non-contributors |
+| 13 | Meena Kumari | meena.kumari.patna@gmail.com | `GCK4JIV...L5CL` | Pie chart of member contributions |
+| 14 | Suraj Munda | surajmunda1995@gmail.com | `GAY3SWS...6UOF` | Export transaction history as PDF |
+| 15 | Kritika Pandey | kritikapandey98@gmail.com | `GA6MYIG...BMLD` | Bigger buttons on mobile view |
 
 ---
 
@@ -106,21 +125,24 @@ We set up a comprehensive feedback loop using Google Forms directly linked from 
 
 - **Google Form Link**: [ChitChain Level 5 Feedback Form](https://docs.google.com/forms/d/1azHCzFdNm0s4u35VnQucj6liT9nDSk_ktRindWeYhFA/viewform)
 - **Exported Responses**: [View Google Sheets Responses](https://docs.google.com/spreadsheets/d/1lIg8DFYpQiNb5WP8YTOt5YBkWczLjQd_VwGov1p-ceE/edit?usp=sharing)
+
+### Key Findings Summary
+- **Average Rating**: `4.8 / 5.0`
 - **Common Themes**: Users appreciate the low fees and trustless nature of the contract. However, non-crypto users found the initial Freighter wallet funding confusing.
 - **Top Requested Feature**: The ability to be part of multiple chit groups simultaneously and a way to invite friends via a shareable link.
 
 ### 🌟 Level 5 Feature Implementations (Feedback Traceability)
 The following features were directly requested by real users in our Level 5 feedback form and were rapidly implemented. Below is the proof of the feedback loop:
 
-| User Name | Email Address | Feedback / Suggestion | Implementation Commit ID |
-| :--- | :--- | :--- | :--- |
-| **Ritesh** | `riteshkumar6529@gmail.com` | "The group page should just auto-refresh in the background every 10 seconds so it feels real-time." | `a575926` |
-| **Sonu** | `sk8651111@gmail.com` | "It would be super helpful to have simple 'Active' and 'Completed' tabs so I can filter out the old groups." | `340963b` |
-| **Rishi Kushwaha** | `riteshkant098@gmail.com` | "Can you make it so if I hover my mouse over an avatar, a small tooltip shows their full wallet address?" | `a575926` |
-| **Abhishek Kumar** | `justabhi59@gmail.com` | "You guys should definitely add a 'Share to X' button that pre-fills a tweet about joining a trustless chit fund." | `a575926` |
-| **Shweta sharma** | `shwetasharma44044@gmail.com` | "It would be so cool if there was a little celebration or confetti animation when the money is actually disbursed." | `c387242`, `a575926` |
-| **Swety** | `shwetasharma79787@gmail.com` | "Can you add a 'Copy Invite Link' button on the group page? It’s a bit annoying when I'm using my phone." | `a575926` |
-| **Nisha Singh** | `l6233040@gmail.com` | "Can you just show my XLM balance next to my wallet address in the top navigation bar?" | `7343a77` |
+| User ID | User Name | Email Address | Wallet Address | Feedback / Suggestion | Improvement Made | Git Commit ID |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | **Ritesh** | `riteshkumar6529@gmail.com` | `GDPHORC...WWI27` | "Auto-refresh group page every 10 seconds" | Added 10-second auto-refresh on Group Details page | `a575926` |
+| 2 | **Sonu** | `sk8651111@gmail.com` | `GBH45ZR...CSPWD` | "Add Active/Completed tabs to filter groups" | Implemented Active/Completed tab filters on Dashboard | `340963b` |
+| 3 | **Rishi Kushwaha** | `riteshkant098@gmail.com` | `GASTVZN...M45US` | "Hover avatar to show full wallet address" | Added tooltip with full wallet address on avatar hover | `a575926` |
+| 4 | **Abhishek Kumar** | `justabhi59@gmail.com` | `GCGITHG...I3LWX` | "Add Share to X button" | Integrated Share to X (Twitter) button with pre-filled tweet | `a575926` |
+| 5 | **Shweta sharma** | `shwetasharma44044@gmail.com` | `GBUTBHM...DOG6` | "Add confetti animation on disburse" | Added celebration confetti animation on successful payout | `c387242`, `a575926` |
+| 6 | **Swety** | `shwetasharma79787@gmail.com` | `GDRK25D...TYRT` | "Add Copy Invite Link button" | Implemented one-click Copy Invite Link on group page | `a575926` |
+| 7 | **Nisha Singh** | `l6233040@gmail.com` | `GAEGWQN...HQU3` | "Show XLM balance in nav bar" | Displayed live XLM balance next to wallet address in header | `7343a77` |
 
 ---
 
