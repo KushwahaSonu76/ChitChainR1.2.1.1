@@ -126,7 +126,7 @@ function App() {
           <div className="bg-gradient-to-r from-accent to-purple-500 text-white text-center py-2 px-4 text-sm font-medium">
             🚀 Help us reach Level 5!{' '}
             <a 
-              href="https://docs.google.com/forms/d/1u1PQbFFA3wZGN8rGY8mQZig3oQMQWN6625iyuFsSUmg/viewform" 
+              href="https://docs.google.com/forms/d/1azHCzFdNm0s4u35VnQucj6liT9nDSk_ktRindWeYhFA/viewform" 
               target="_blank" 
               rel="noopener noreferrer" 
               className="underline font-bold hover:text-gray-200 transition-colors"

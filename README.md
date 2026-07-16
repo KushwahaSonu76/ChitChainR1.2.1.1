@@ -104,11 +104,8 @@ Analytics & Monitoring (PostHog & Sentry)
 ## 9. User Feedback Collection
 We set up a comprehensive feedback loop using Google Forms directly linked from the top banner of the app.
 
-- **Google Form Link**: [ChitChain Level 5 Feedback Form](https://docs.google.com/forms/d/1u1PQbFFA3wZGN8rGY8mQZig3oQMQWN6625iyuFsSUmg/edit)
-- **Exported Responses**: [View Google Sheets Responses][https://docs.google.com/spreadsheets/d/1W6AUulc9Tnu_lkESl7l0cLrtx8GLqtZc3CcuxLFyIoY/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1UatsNo8vG8Ooph8jxFBqAqM1ZL5Adkj14MrXGu-i0Is/edit?usp=sharing)
-
-### Key Findings Summary
-- **Average Rating**: `4.8 / 5.0`
+- **Google Form Link**: [ChitChain Level 5 Feedback Form](https://docs.google.com/forms/d/1azHCzFdNm0s4u35VnQucj6liT9nDSk_ktRindWeYhFA/viewform)
+- **Exported Responses**: [View Google Sheets Responses](https://docs.google.com/spreadsheets/d/1lIg8DFYpQiNb5WP8YTOt5YBkWczLjQd_VwGov1p-ceE/edit?usp=sharing)
 - **Common Themes**: Users appreciate the low fees and trustless nature of the contract. However, non-crypto users found the initial Freighter wallet funding confusing.
 - **Top Requested Feature**: The ability to be part of multiple chit groups simultaneously and a way to invite friends via a shareable link.
 
